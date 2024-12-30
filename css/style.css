@@ -11,10 +11,10 @@
 }
 
 body {
-    background-image: url(/images/7B92A946-5B17-4541-83E8-83FF04B8F1BA.jpg);
-    /* background-repeat: no-repeat;
+    background-image: url(../images/7B92A946-5B17-4541-83E8-83FF04B8F1BA.jpg);
+    background-repeat: no-repeat;
     background-attachment: fixed;
-    font-family: 'Potta+One', sans-serif; */
+    font-family: 'Potta+One', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     background-color: white;
